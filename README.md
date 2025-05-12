@@ -1,6 +1,6 @@
 # fbm-bdd-package
 
-Implementation of a basic Binary Decision Diagram package, which was made for the course Formal Proofing Methods in the winter semester of 2024/2025.
+Implementation of a basic Binary Decision Diagram package, which was made for the course Formal Proofing Methods at the University Bremen in the winter semester of 2024/2025.
 
 ## Compiling
 The package needs the [Gnu C Compiler](https://gcc.gnu.org/) to be built with the given Makefile.
