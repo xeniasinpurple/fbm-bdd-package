@@ -1,0 +1,6 @@
+read_blif ./FBM_circuits/circuits/fbm3.blif
+techmap
+opt
+aigmap
+opt
+write_aiger -ascii FBM_circuits/opt/fbm3.aag

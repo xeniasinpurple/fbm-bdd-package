@@ -1,0 +1,6 @@
+read_blif $IN
+techmap
+opt
+aigmap
+opt
+write_aiger -ascii $OUT

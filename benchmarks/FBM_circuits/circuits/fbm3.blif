@@ -1,0 +1,56 @@
+.model fbm3
+.inputs 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+.outputs f0
+.names 2dcee7c4e29
+1
+.names 15 2dcee7c4e29 2dcee7c4e29 2dcee7c4e3c
+11- 1
+0-0 1
+.names 14 2dcee7c4e29 2dcee7c4e3c 2dcee7c4e6e
+11- 1
+0-1 1
+.names 13 2dcee7c4e6e 2dcee7c4e29 2dcee7c4e6f
+11- 1
+0-0 1
+.names 12 2dcee7c4e6e 2dcee7c4e6f 2dcee7c4e70
+11- 1
+0-1 1
+.names 11 2dcee7c4e70 2dcee7c4e29 2dcee7c4e71
+11- 1
+0-0 1
+.names 10 2dcee7c4e70 2dcee7c4e71 2dcee7c4e72
+11- 1
+0-1 1
+.names 9 2dcee7c4e72 2dcee7c4e29 2dcee7c4e73
+11- 1
+0-0 1
+.names 8 2dcee7c4e72 2dcee7c4e73 2dcee7c4e74
+11- 1
+0-1 1
+.names 7 2dcee7c4e74 2dcee7c4e29 2dcee7c4e75
+11- 1
+0-0 1
+.names 6 2dcee7c4e74 2dcee7c4e75 2dcee7c4e76
+11- 1
+0-1 1
+.names 5 2dcee7c4e76 2dcee7c4e29 2dcee7c4e77
+11- 1
+0-0 1
+.names 4 2dcee7c4e76 2dcee7c4e77 2dcee7c4e78
+11- 1
+0-1 1
+.names 3 2dcee7c4e78 2dcee7c4e29 2dcee7c4e79
+11- 1
+0-0 1
+.names 2 2dcee7c4e78 2dcee7c4e79 2dcee7c4e7a
+11- 1
+0-1 1
+.names 1 2dcee7c4e7a 2dcee7c4e29 2dcee7c4e7b
+11- 1
+0-0 1
+.names 0 2dcee7c4e7a 2dcee7c4e7b 2dcee7c4e7c
+11- 1
+0-1 1
+.names 2dcee7c4e7c f0
+1 1
+.end

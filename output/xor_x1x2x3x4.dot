@@ -1,0 +1,25 @@
+digraph BDD{
+	"0x55bbe184d4c0" [label="x1", shape=circle];
+	"0x55bbe184d4c0" -> "0x55bbe184d480" [style=dashed];
+	"0x55bbe184d480" [label="x2", shape=circle];
+	"0x55bbe184d480" -> "0x55bbe184d3e0" [style=dashed];
+	"0x55bbe184d3e0" [label="x3", shape=circle];
+	"0x55bbe184d3e0" -> "0x55bbe184d3c0" [style=dashed];
+	"0x55bbe184d3c0" [label="x4", shape=circle];
+	"0x55bbe184d3c0" -> "0x55bbe184d2c0" [style=dashed];
+	"0x55bbe184d2c0" [label="0", shape=square];
+	"0x55bbe184d3c0" -> "0x55bbe184d2e0";
+	"0x55bbe184d2e0" [label="1", shape=square];
+	"0x55bbe184d3e0" -> "0x55bbe184d3a0";
+	"0x55bbe184d3a0" [label="x4", shape=circle];
+	"0x55bbe184d3a0" -> "0x55bbe184d2e0" [style=dashed];
+	"0x55bbe184d3a0" -> "0x55bbe184d2c0";
+	"0x55bbe184d480" -> "0x55bbe184d460";
+	"0x55bbe184d460" [label="x3", shape=circle];
+	"0x55bbe184d460" -> "0x55bbe184d3a0" [style=dashed];
+	"0x55bbe184d460" -> "0x55bbe184d3c0";
+	"0x55bbe184d4c0" -> "0x55bbe184d4a0";
+	"0x55bbe184d4a0" [label="x2", shape=circle];
+	"0x55bbe184d4a0" -> "0x55bbe184d460" [style=dashed];
+	"0x55bbe184d4a0" -> "0x55bbe184d3e0";
+}
